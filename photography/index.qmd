@@ -1,19 +1,24 @@
 ---
-title: "Recent conferences"
+title: Recent conferences
 ---
 
 # ESA 2023
 
 At the Ecological Society of America meeting 2023 I got to present my ongoing work on butterfly thermal physiology, as well as serve as the organizer of an Inspire session focused on the experiences of the Latine community of ecologists.
 
-::: {layout-ncol=2}
+::: {layout-ncol=1}
 
 ![](ESA_image_1.jpg)
+
 Presenting my work on thermal physiology of butterflies at the poster session.
+
+
 
 ![](ESA_image_3.jpg)
 
+
 ![](ESA_image_2.jpg)
+
 Introducing the awesome speakers at the Inspire session.
 
 

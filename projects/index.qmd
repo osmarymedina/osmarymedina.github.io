@@ -1,12 +1,35 @@
 ---
-title: Projects
+title: Research projects
 ---
 
 ## Case Western Reserve University
 
-<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://abbottlab480702554.wordpress.com/', 'blank');"/>
 
-Most of my current work is related to butterfly thermal physiology. I try to determine species physiological tolerances and make predictions of species vulnerability to climate change.
+Most of my current work at CWRU is related to butterfly thermal physiology. I study species physiological tolerances and make predictions of species vulnerability to climate change.
+
+Thanks to my great advisors Dr. Karen Abbott and Dr. Jean Burns!
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://abbottlab480702554.wordpress.com/" role="button" target="_blank" style="padding: 15px 30px;">Visit the Abbott Lab page</a>
+</div>
+```
+
+
+## John Carroll University
+
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://jamesiwatling.wordpress.com/', 'blank');"/>
+
+At JCU I studied thermal physiology and population decline of the tropical salamander Bolitoglossa altamazonica in Colombia. 
+
+Thanks to my awesome advisor Dr. James Watling!
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://jamesiwatling.wordpress.com/" role="button" target="_blank" style="padding: 15px 30px;">Visit the Watling Lab page</a>
+</div>
+```
 
 ----
 

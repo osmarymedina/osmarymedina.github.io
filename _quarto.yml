@@ -15,7 +15,7 @@ website:
     
     # your sub-pages
     left:
-      - text: "Current work"
+      - text: "Research projects"
         href: projects/index.qmd
       - text: "CV"
         href: cv/index.qmd
