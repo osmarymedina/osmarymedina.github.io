@@ -1,0 +1,55 @@
+---
+title: Research projects
+---
+
+## Case Western Reserve University
+
+<img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://abbottlab480702554.wordpress.com/', 'blank');"/>
+
+Most of my current work at CWRU is related to butterfly thermal physiology. I study species physiological tolerances to determine their vulnerability to climate change.
+
+Thanks to my great advisors Dr. Karen Abbott and Dr. Jean Burns!
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://abbottlab480702554.wordpress.com/" role="button" target="_blank" style="padding: 15px 30px;">Visit the Abbott Lab page</a>
+</div>
+```
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://sites.google.com/a/case.edu/jean-h-burns-ecology-lab/" role="button" target="_blank" style="padding: 15px 30px;">Visit the Burns Lab page</a>
+</div>
+```
+
+
+## John Carroll University
+
+<img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://jamesiwatling.wordpress.com/', 'blank');"/>
+
+At JCU I studied thermal physiology and population decline of the tropical salamander Bolitoglossa altamazonica in Colombia. 
+
+Thanks to my awesome advisor Dr. James Watling!
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://jamesiwatling.wordpress.com/" role="button" target="_blank" style="padding: 15px 30px;">Visit the Watling Lab page</a>
+</div>
+```
+
+----
+
+## Publications
+
+Medina-Báez, O.A., Lenard, A., Muzychuk, R.A., da Silva, C.R. and Diamond, S.E., 2023. Life cycle complexity and body mass drive erratic changes in climate vulnerability across ontogeny in a seasonally migrating butterfly. Conservation Physiology, 11(1), p.coad058.
+
+Prileson, E.G., Clark, J., Diamond, S.E., Lenard, A., Medina-Báez, O.A., Yilmaz, A.R. and Martin, R.A., 2023. Keep your cool: Overwintering physiology in response to urbanization in the acorn ant, Temnothorax curvispinosus. Journal of Thermal Biology, 114, p.103591.
+
+Veselka, A.J., Aponte‐Gutiérrez, A., Medina‐Báez, O.A. and Watling, J.I., 2023. Upper thermal limits predict herpetofaunal responses to forest edge and cover. Biotropica, 55(2), pp.540-550.
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://scholar.google.com/citations?user=591aLD4AAAAJ&hl=en&oi=ao" role="button" target="_blank" style="padding: 15px 30px;">View my google scholar page</a>
+</div>
+```
