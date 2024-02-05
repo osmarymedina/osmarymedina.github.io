@@ -6,13 +6,19 @@ title: Research projects
 
 <img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://abbottlab480702554.wordpress.com/', 'blank');"/>
 
-Most of my current work at CWRU is related to butterfly thermal physiology. I study species physiological tolerances and make predictions of species vulnerability to climate change.
+Most of my current work at CWRU is related to butterfly thermal physiology. I study species physiological tolerances to determine their vulnerability to climate change.
 
 Thanks to my great advisors Dr. Karen Abbott and Dr. Jean Burns!
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
 <a class="btn btn-primary" href="https://abbottlab480702554.wordpress.com/" role="button" target="_blank" style="padding: 15px 30px;">Visit the Abbott Lab page</a>
+</div>
+```
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://sites.google.com/a/case.edu/jean-h-burns-ecology-lab/" role="button" target="_blank" style="padding: 15px 30px;">Visit the Burns Lab page</a>
 </div>
 ```
 
