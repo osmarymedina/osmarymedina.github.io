@@ -18,7 +18,7 @@ website:
       - text: "CV"
         href: cv/index.qmd
       - text: "Recent conferences"
-        href: photography/index.qmd
+        href: conferences/index.qmd
     
     # your social media handles
     right:

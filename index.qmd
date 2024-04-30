@@ -4,9 +4,6 @@ about:
   id: about-block
   image: "img/my_image.jpg"
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/osmary_94
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/osmary-medina/
