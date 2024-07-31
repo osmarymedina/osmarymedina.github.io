@@ -8,7 +8,10 @@ title: Research projects
 
 Most of my current work at CWRU is related to butterfly thermal physiology. I study species physiological tolerances to determine their vulnerability to climate change.
 
-Thanks to my great advisors Dr. Karen Abbott and Dr. Jean Burns!
+Learn more about my work in this video!
+{{< video https://youtu.be/3MhYFhAQwO4 aspect-ratio="4x3" >}}
+
+Thanks to my great CWRU advisors Dr. Karen Abbott and Dr. Jean Burns!
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
@@ -29,7 +32,10 @@ Thanks to my great advisors Dr. Karen Abbott and Dr. Jean Burns!
 
 At JCU I studied thermal physiology and population decline of the tropical salamander Bolitoglossa altamazonica in Colombia. 
 
-Thanks to my awesome advisor Dr. James Watling!
+Learn more about our work in Colombia in this video:
+{{< video https://www.youtube.com/watch?v=58nH1bYV26s&t=1s aspect-ratio="4x3" >}}
+
+Thanks to my awesome JCU advisor Dr. James Watling!
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
@@ -37,19 +43,3 @@ Thanks to my awesome advisor Dr. James Watling!
 </div>
 ```
 
-----
-
-## Publications
-
-Medina-Báez, O.A., Lenard, A., Muzychuk, R.A., da Silva, C.R. and Diamond, S.E., 2023. Life cycle complexity and body mass drive erratic changes in climate vulnerability across ontogeny in a seasonally migrating butterfly. Conservation Physiology, 11(1), p.coad058.
-
-Prileson, E.G., Clark, J., Diamond, S.E., Lenard, A., Medina-Báez, O.A., Yilmaz, A.R. and Martin, R.A., 2023. Keep your cool: Overwintering physiology in response to urbanization in the acorn ant, Temnothorax curvispinosus. Journal of Thermal Biology, 114, p.103591.
-
-Veselka, A.J., Aponte‐Gutiérrez, A., Medina‐Báez, O.A. and Watling, J.I., 2023. Upper thermal limits predict herpetofaunal responses to forest edge and cover. Biotropica, 55(2), pp.540-550.
-
-
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="https://scholar.google.com/citations?user=591aLD4AAAAJ&hl=en&oi=ao" role="button" target="_blank" style="padding: 15px 30px;">View my google scholar page</a>
-</div>
-```

@@ -5,8 +5,7 @@ title: Recent conferences
 # ESA 2024
 
 Find me at the Ecological Society of America Meeting 2024 in Long Beach, CA where I will help organize the Special Session *Towards equity in the communication of science: harnessing the power of AI for an inclusive tomorrow*. 
-
-I will also be giving a talk about my work in my native language (Spanish).
+I will also be giving a talk about my work in my native language (Spanish) titled: ¿Qué herramientas ayudan ante el cambio? Physiological tolerances as a tool to assess butterfly vulnerability to climate change
 
 ![](ESA2024ad.png)
 
