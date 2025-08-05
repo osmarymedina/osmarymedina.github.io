@@ -1,17 +1,29 @@
 ---
 title: Research projects
 ---
+## The University of Tennessee, Knoxville
 
+<img src="project_3_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://www.biogeographyresearch.org/', 'blank');"/>
+
+My work in the Sheldon lab at UTK is focused on dung beetle behavior and ecophysiology. Some of the cool species I am studying are *Phanaeus vindex* and *Onthophagus taurus*. In this picture we are looking at dung beetle behavior in response to temperature changes.
+
+Learn more about the work we do in the Sheldon Lab here!
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.biogeographyresearch.org/" role="button" target="_blank" style="padding: 15px 30px;">Visit the Sheldon Lab page</a>
+</div>
+```
 ## Case Western Reserve University
 
 <img src="project_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://abbottlab480702554.wordpress.com/', 'blank');"/>
 
-Most of my current work at CWRU is related to butterfly thermal physiology. I study species physiological tolerances to determine their vulnerability to climate change.
+My work at CWRU is related to butterfly thermal physiology, conservation, and habitat suitability modeling. I studied species physiological tolerances to determine their vulnerability to climate change, and I also explored how absence of larval host plants could limit butterfly distributions under future climate change.
 
 Learn more about my work in this video!
 {{< video https://youtu.be/3MhYFhAQwO4 aspect-ratio="4x3" >}}
 
-Thanks to my great CWRU advisors Dr. Karen Abbott and Dr. Jean Burns!
+Learn more about the work my great CWRU advisors Dr. Karen Abbott and Dr. Jean Burns do in their labs!
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
@@ -30,12 +42,12 @@ Thanks to my great CWRU advisors Dr. Karen Abbott and Dr. Jean Burns!
 
 <img src="project_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://jamesiwatling.wordpress.com/', 'blank');"/>
 
-At JCU I studied thermal physiology and population decline of the tropical salamander Bolitoglossa altamazonica in Colombia. 
+At JCU I studied thermal physiology and population decline of the tropical salamander *Bolitoglossa altamazonica* in Colombia. 
 
 Learn more about our work in Colombia in this video:
 {{< video https://www.youtube.com/watch?v=58nH1bYV26s&t=1s aspect-ratio="4x3" >}}
 
-Thanks to my awesome JCU advisor Dr. James Watling!
+Learn more about the work my awesome JCU advisor Dr. James Watling is doing in his lab!
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">

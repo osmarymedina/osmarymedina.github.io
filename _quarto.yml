@@ -1,7 +1,7 @@
 # website settings
 website:
   title: "Osmary A. Medina-Báez"                                # Osmary Medina-Báez
-  description: "PhD Candidate at Case Western Reserve University"   # Ecologist. Ecophysiologist. Herpetologist. 
+  description: "Postdoctoral research associate and NSF Postdoctoral Research Fellow at University of Tennessee, Knoxville."   # Ecologist. Ecophysiologist. Herpetologist. 
   image: img/my_image.jpg
   
   favicon: img/favicon.png
@@ -28,9 +28,11 @@ website:
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/osmary-medina/
+      - icon: bluesky
+        href: https://bsky.app/profile/osmarymedina.bsky.social
       - icon: envelope
         aria-label: email
-        href: mailto:oam23@case.edu  
+        href: mailto:osmary.medina2@gmail.com 
   
   
 
@@ -40,7 +42,7 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">&#169; 2024 Osmary Medina-Báez </span>
+      <span class="faux-block">&#169; 2025 Osmary Medina-Báez </span>
  
 project:
   type: website
