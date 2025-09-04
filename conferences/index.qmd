@@ -2,6 +2,25 @@
 title: Recent conferences
 ---
 
+# ESA 2025
+
+## Science communication workshop
+
+At the Ecological Society of America meeting 2025 in Baltimore, Maryland I had the opportunity to participate in a science communication workshop (From Research to Action: Communicating Science Effectively for Real-World Impact) sponsored by the Latin America and the Caribbean Chapter, where I got to share some of my science communication skills, especially through media.  
+
+![](ESA2025.png)
+
+## Poster presentation
+
+I also had the opportunity to present my recent work on butterfly-hostplant habitat suitability modeling and received a lot of great feedback.
+
+![](ESA2025poster.jpg)
+
+## SEEDS Alumni mentor
+![](seeds.png)
+
+For the first time, I had the opportunity to be a SEEDS Alumni mentor for current SEEDS students. It was an amazing opportunity where I learned from so many talented students and was able to help them navigate their first big conference. 
+
 # ESA 2024
 
 At the Ecological Society of America meeting 2024 in Long Beach, California I had the opportunity to be an organizer and speaker at the Special Session *Towards equity in the communication of science: harnessing the power of AI for an inclusive tomorrow*. 
@@ -18,6 +37,7 @@ Not only did I have the opportunity to participate in the planning committee for
 Current and past members of the Watling lab reunite at ESA Great Lakes Regional Conference 2024
 
 ::: {layout-ncol=1}
+
 
 # ESA 2023
 
