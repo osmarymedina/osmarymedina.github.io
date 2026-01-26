@@ -2,6 +2,31 @@
 title: Mentoring
 ---
 
+# University of Tennessee, Knoxville
+
+I currently have the opportunity to mentor several amazing students in the Sheldon Lab. We are developing several projects, from dung beetle behavior responses to environmental variables, to using herbarium specimens to better understand larval host plants.
+
+
+## Gracie Bixler (2026-present)
+![](Gracie_Bixler.jpeg)
+Gracie is working on new methods to study dung beetle reproductive behavior in response to environmental variables.
+
+## Myles Nellans (2026-present)
+![](Myles_Nellans.jpg)
+Myles is working on better understanding butterfly-hostplant interactions in order to be able to rear butterflies in captivity.
+
+## Nathan Rhodes (2026-present)
+![](Nathan_Rhodes.jpg)
+Nathan is working on field and laboratory experiments to better understand butterfly physiological traits.
+
+## Emily Sexton (2025-present)
+![](Emily_Sexton.jpeg)
+Emily has been working in the Sheldon lab since the summer of 2025. She is currently leading experiments looking at dung beetle reproductive behavior in response to environmental variables. 
+
+## Emily Wagner (2026-present)
+![](Emily_Wagner.jpeg)
+Emily is working on field and laboratory experiments to better understand butterfly physiological traits.
+
 # Case Western Reserve University
 
 During my PhD I had the opportunity to work with amazing students. Learn a about their work with me and what they are up to now.

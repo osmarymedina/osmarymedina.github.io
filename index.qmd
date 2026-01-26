@@ -2,7 +2,7 @@
 about:
   template: jolla
   id: about-block
-  image: "img/my_image.jpg"
+  image: "img/Osmary_Medina.jpg"
   links:
     - icon: linkedin
       text: LinkedIn
